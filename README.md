@@ -94,7 +94,7 @@ if __name__ == "__main__":
     main()
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/azsii8/blob/main/screenshot/1.JPG)
 
 ## Шаг 2: Градиентная маскировка (Gradient Masking)
 
@@ -140,7 +140,7 @@ if __name__ == "__main__":
     main()
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/azsii8/blob/main/screenshot/2.JPG)
 
 ## Шаг 3: Регуляризация и нормализация для повышения устойчивости
 
@@ -185,7 +185,7 @@ if __name__ == "__main__":
     main()
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/azsii8/blob/main/screenshot/3.JPG)
 
 ## Шаг 4: Оценка моделей на противоречивых примерах
 
@@ -222,7 +222,7 @@ if __name__ == "__main__":
     main()
 ```
 
-![image]()
+![image](https://github.com/Archangel15520/azsii8/blob/main/screenshot/4.JPG)
 
 **Вывод:**
 
